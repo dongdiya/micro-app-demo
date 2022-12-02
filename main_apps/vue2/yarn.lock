@@ -963,10 +963,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
-"@micro-zoe/micro-app@latest":
-  version "0.6.2"
-  resolved "https://registry.npmmirror.com/@micro-zoe/micro-app/download/@micro-zoe/micro-app-0.6.2.tgz#470e2036cf84a9353354995862a7c160d708ab92"
-  integrity sha512-Qx3UzjRIuhAw7bxL9P9iD4KNQIn6tk3Paq66KZ/M+HlV7z1jL99khIqMRdLiQemHA/cFqi2B1n7BaWB2wb2aZQ==
+"@micro-zoe/micro-app@1.0.0-alpha.9":
+  version "1.0.0-alpha.9"
+  resolved "https://registry.npmmirror.com/@micro-zoe/micro-app/-/micro-app-1.0.0-alpha.9.tgz#e6dbe7130fa2091fa9c88e370da33f093807622f"
+  integrity sha512-/wIzf3jVzDVeg6eb0f2Fj08Mp2OKwucfHldJaUSb/KeC1LdA1yKNEAqXAfUDzmcQ7RAPrGuM5fGZNJSlj3nPSQ==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
